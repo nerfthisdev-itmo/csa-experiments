@@ -8,6 +8,6 @@
 
 ## Доки по архитектурам
 
-- 📄 [acc32 ISA Documentation](https://github.com/nerfthisdev/f32a-docs/blob/main/F32a-ISA.pdf)
+- 📄 [acc32 ISA Documentation](https://github.com/ryukzak/wrench/blob/master/docs/acc32.md)
 - 📄 [f32a ISA Documentation](https://github.com/ryukzak/wrench/blob/master/docs/f32a.md)
 - 📄 [risc-iv-32 ISA Documentation](https://github.com/ryukzak/wrench/blob/master/docs/risc-iv.md)
